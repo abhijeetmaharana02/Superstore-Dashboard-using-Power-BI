@@ -8,16 +8,16 @@ It helps identify key business insights related to sales, profit, customer segme
 ✔ Total Quantity Sold: 22K
 ✔ Average Delivery Time: 4 Days
 
-🧾 Key Insights
-Insight Area                  	Details
-Sales by Payment Mode	          Cash on Delivery contributes the highest share followed by Online and Card payments
-Top Product Categories	        Office Supplies, Technology, and Furniture drive majority of sales
-Sales Trend by Month & Year	    Shows seasonal patterns and year-on-year growth
-Profit Trend by Month & Year	  Highlights profitability fluctuations across months
-Sales by Segment              	Consumer segment leads, followed by Corporate and Home Office
-Sales by Ship Mode	            Standard shipping brings the highest sales volume
-Sales by State (Geo-Map)	      Visual distribution of sales & profit across U.S. states
-Sales by Sub-Category          	Phones, Chairs, and Binders are the top-performing items
+🔑 Key Insights
+
+Cash on Delivery (COD) is the most used payment mode, followed by Online and Card payments.
+Office Supplies, Technology, and Furniture are the top categories contributing to total sales.
+Phones, Chairs, and Binders are the most profitable sub-categories.
+Consumer segment generates the highest sales, followed by Corporate and Home Office.
+Standard Shipping accounts for the majority of orders, while Same-Day has the lowest share.
+Sales and Profit trend increases significantly towards the end of the year, especially in November and December.
+Geographic analysis shows that certain U.S. states contribute disproportionately high sales and profit, allowing targeted decision-making.
+Overall performance shows healthy revenue growth with positive profit margins across segments and categories.
 
 🎯 Business Purpose
 The dashboard is designed to support data-driven decision making by helping business teams:
